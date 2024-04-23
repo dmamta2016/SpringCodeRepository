@@ -1,0 +1,7 @@
+com\demo\hibernate\StudentDAO.class
+com\demo\jdbc\StudentDAO.class
+com\demo\hibernate\StudentDAOImpl.class
+com\demo\SpringHibernateTest.class
+com\demo\hibernate\model\Student.class
+com\demo\Demo.class
+com\demo\model\Student.class
